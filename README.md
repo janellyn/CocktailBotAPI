@@ -49,7 +49,7 @@ To interact with the CocktailBotAPI, access the Telegram bot using the provided 
 
 ## Contribution
 
-We welcome contributions to enhance the functionality of CocktailBotAPI. If you find any issues or have ideas for improvements, please feel free to create pull requests or submit issues on the GitHub repository.
+I welcome contributions to enhance the functionality of CocktailBotAPI. If you find any issues or have ideas for improvements, please feel free to create pull requests or submit issues on the GitHub repository.
 
 ---
-We hope you enjoy using CocktailBotAPI to explore the world of cocktails! Cheers! 🍹
+I hope you enjoy using CocktailBotAPI to explore the world of cocktails! Cheers! 🍹
